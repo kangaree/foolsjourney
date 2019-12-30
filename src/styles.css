@@ -17,7 +17,7 @@ body {
 }
 
 #root {
-  background: black;
+  background: white;
   position: fixed;
   overflow: hidden;
   width: 100%;
@@ -30,6 +30,7 @@ body {
   height: 100vh;
   will-change: transform;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }

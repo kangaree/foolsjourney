@@ -116,7 +116,8 @@ function shuffleArray(array) {
 }
 
 function App() {
-  const cards = shuffleArray(tarotDeck);
+  // const cards = shuffleArray(tarotDeck);
+  const cards = tarotDeck.reverse();
   const [gone] = useState(() => new Set()); // The set flags all the cards that are flicked out
   const [props, set] = useSprings(cards.length, i => ({
     ...to(i),
@@ -171,6 +172,7 @@ function App() {
           backgroundImage: `url(${cards[i]})`
         }}
       />
+      <p style={{ marginLeft: 30 }}>{"hello"}</p>
     </animated.div>
   ));
 }
