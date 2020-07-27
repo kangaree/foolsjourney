@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c3af8fea65722ae4816314f183839b8",
+    "revision": "a0fa954f7e0aca07dccce3c6e6869297",
     "url": "/foolsjourney/index.html"
   },
   {
-    "revision": "44c2b4e51bdcd1cad376",
+    "revision": "f71f610c6d1ed5776a3b",
     "url": "/foolsjourney/static/css/main.a3558502.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foolsjourney/static/js/2.b23bc7bf.chunk.js.LICENSE"
   },
   {
-    "revision": "44c2b4e51bdcd1cad376",
-    "url": "/foolsjourney/static/js/main.a34791fd.chunk.js"
+    "revision": "f71f610c6d1ed5776a3b",
+    "url": "/foolsjourney/static/js/main.0f33f771.chunk.js"
   },
   {
     "revision": "873c1183fe457db4321e",

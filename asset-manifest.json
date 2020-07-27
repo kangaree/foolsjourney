@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foolsjourney/static/css/main.a3558502.chunk.css",
-    "main.js": "/foolsjourney/static/js/main.a34791fd.chunk.js",
-    "main.js.map": "/foolsjourney/static/js/main.a34791fd.chunk.js.map",
+    "main.js": "/foolsjourney/static/js/main.0f33f771.chunk.js",
+    "main.js.map": "/foolsjourney/static/js/main.0f33f771.chunk.js.map",
     "runtime-main.js": "/foolsjourney/static/js/runtime-main.a30cfb2b.js",
     "runtime-main.js.map": "/foolsjourney/static/js/runtime-main.a30cfb2b.js.map",
     "static/js/2.b23bc7bf.chunk.js": "/foolsjourney/static/js/2.b23bc7bf.chunk.js",
     "static/js/2.b23bc7bf.chunk.js.map": "/foolsjourney/static/js/2.b23bc7bf.chunk.js.map",
     "index.html": "/foolsjourney/index.html",
-    "precache-manifest.f76406ab8386a95dc265d9c48ea64a4d.js": "/foolsjourney/precache-manifest.f76406ab8386a95dc265d9c48ea64a4d.js",
+    "precache-manifest.96b80dcbe0a3d8c2dc8fcf71830e9316.js": "/foolsjourney/precache-manifest.96b80dcbe0a3d8c2dc8fcf71830e9316.js",
     "service-worker.js": "/foolsjourney/service-worker.js",
     "static/css/main.a3558502.chunk.css.map": "/foolsjourney/static/css/main.a3558502.chunk.css.map",
     "static/js/2.b23bc7bf.chunk.js.LICENSE": "/foolsjourney/static/js/2.b23bc7bf.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a30cfb2b.js",
     "static/js/2.b23bc7bf.chunk.js",
     "static/css/main.a3558502.chunk.css",
-    "static/js/main.a34791fd.chunk.js"
+    "static/js/main.0f33f771.chunk.js"
   ]
 }
